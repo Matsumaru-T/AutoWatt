@@ -1,16 +1,16 @@
 #### How to use
-
-Disable Synchronize Clock via Internet (Home > System Settings > System > Date and Time)
-Play Rank Match (surrender is okay)
-Stand at front of the den and put Wishing Piece then Insert USB
-*Y-Comm turn to local better
+  
+Disable Synchronize Clock via Internet (Home > System Settings > System > Date and Time)  
+Play Rank Match (surrender is okay)  
+Stand at front of the den and put Wishing Piece then Insert USB  
+*Y-Comm turn to local better  
 
 #### 使用方法
 
-インターネットで時間をあわせるをOFF (ホーム > 設定 > 本体 > 日付と時刻)
-ランクマッチを1回する 降参でも可
-ねがいのかたまりを入れた巣穴の前に立って挿すだけ
-※YY通信をローカルにするのをお奨めします
+インターネットで時間をあわせるをOFF (ホーム > 設定 > 本体 > 日付と時刻)  
+ランクマッチを1回する 降参でも可  
+ねがいのかたまりを入れた巣穴の前に立って挿すだけ  
+※YY通信をローカルにするのをお奨めします  
 
 
 #### Thanks

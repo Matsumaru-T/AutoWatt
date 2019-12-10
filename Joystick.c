@@ -54,7 +54,7 @@ static const command step[] = {
 	{ NOTHING,  250 },
     */
     
-	// Stay front at Raid interaction
+	// Stay front at den
 	{ B,          5 },
 	{ B,          5 },
 	{ B,          5 },
